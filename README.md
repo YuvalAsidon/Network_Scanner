@@ -1,4 +1,4 @@
-# Network_Scanner
+# Network_Scanner [https://docs.python.org/3.3/library/argparse.html][https://scapy.readthedocs.io/en/latest/index.html]
 Network scanner using scapy for python3 (no nmap!)
 also using argparse you can change it for optparse
 
